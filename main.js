@@ -79,7 +79,7 @@ function initDownloadCV() {
     if (downloadBtn) {
         downloadBtn.addEventListener('click', function() {
             // Change this path to your actual CV file
-            window.open('assets/documents/lina-benzemma-cv.pdf', '_blank');
+            window.open('CV Cheyenne BEUDARD - CDI:CDD', '_blank');
         });
     }
 }
